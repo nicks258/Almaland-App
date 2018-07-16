@@ -86,11 +86,14 @@ public class MainActivity extends AppCompatActivity
 
         } else if (id == R.id.careers) {
 
-        } else if (id == R.id.nav_manage) {
+        } else if (id == R.id.calender) {
 
-        } else if (id == R.id.nav_share) {
+        } else if (id == R.id.my_school) {
 
-        } else if (id == R.id.nav_send) {
+        } else if (id == R.id.my_notification) {
+
+        }
+        else if (id == R.id.my_profile) {
 
         }
 
